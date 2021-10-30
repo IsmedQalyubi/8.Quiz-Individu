@@ -1,6 +1,6 @@
 1. Di Kampus UTS memiliki pipa yang bisa mengalirakan air sebanyak 125 liter air dalam 
 waktu 50 menit. Berapa cm3/ detik debit anutan pipa air tersebut?
-![image](
+![image](https://github.com/IsmedQalyubi/8.Quiz-Individu/blob/main/Screenshot%20(127).png) 
 ![image](
 2. Kubangan Kerbau mempunyai volume 40 m3 diisi dengan air, memakai pipa. Waktu 
 yang diperlukan untuk mengisinya sampai penuh yaitu 4 jam. Berapa liter/detik debit air 
