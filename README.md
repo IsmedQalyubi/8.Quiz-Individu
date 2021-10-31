@@ -21,7 +21,7 @@ waktu 50 menit. Berapa cm3/ detik debit anutan pipa air tersebut?
 2. Kubangan Kerbau mempunyai volume 40 m3 diisi dengan air, memakai pipa. Waktu 
 yang diperlukan untuk mengisinya sampai penuh yaitu 4 jam. Berapa liter/detik debit air 
 yang keluar dari pipa tersebut?
-![image]( 
+![image](https://github.com/IsmedQalyubi/8.Quiz-Individu/blob/main/Screenshot%20(145).png) 
 ![image]( 
 ![image](
 3. Terdapat sebuah air terjun yang mempunyai debit air sebesar 80 m3/detik. Berapa 
