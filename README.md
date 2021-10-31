@@ -22,7 +22,7 @@ waktu 50 menit. Berapa cm3/ detik debit anutan pipa air tersebut?
 yang diperlukan untuk mengisinya sampai penuh yaitu 4 jam. Berapa liter/detik debit air 
 yang keluar dari pipa tersebut?
 ![image](https://github.com/IsmedQalyubi/8.Quiz-Individu/blob/main/Screenshot%20(145).png) 
-![image]( 
+![image](https://github.com/IsmedQalyubi/8.Quiz-Individu/blob/main/Capture%201.PNG) 
 ![image](
 3. Terdapat sebuah air terjun yang mempunyai debit air sebesar 80 m3/detik. Berapa 
 banyak air yang bisa dipindahkan air terjun tersebut dalam waktu 10 menit?
