@@ -28,4 +28,4 @@ yang keluar dari pipa tersebut?
 banyak air yang bisa dipindahkan air terjun tersebut dalam waktu 10 menit?
 ![image](https://github.com/IsmedQalyubi/8.Quiz-Individu/blob/main/Screenshot%20(147).png) 
 ![image](https://github.com/IsmedQalyubi/8.Quiz-Individu/blob/main/Capture%202.PNG) 
-![image](
+![image](https://github.com/IsmedQalyubi/8.Quiz-Individu/blob/main/Screenshot%20(148).png) 
