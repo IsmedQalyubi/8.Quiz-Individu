@@ -27,5 +27,5 @@ yang keluar dari pipa tersebut?
 3. Terdapat sebuah air terjun yang mempunyai debit air sebesar 80 m3/detik. Berapa 
 banyak air yang bisa dipindahkan air terjun tersebut dalam waktu 10 menit?
 ![image](https://github.com/IsmedQalyubi/8.Quiz-Individu/blob/main/Screenshot%20(147).png) 
-![image](
+![image](https://github.com/IsmedQalyubi/8.Quiz-Individu/blob/main/Capture%202.PNG) 
 ![image](
